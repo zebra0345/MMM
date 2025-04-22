@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.ssafy.tmt.db.mapper.transaction.AccountVerifyMapper">
+    <insert id="insertAccountVerify" parameterType="org.ssafy.tmt.api.entity.account.AccountVerify" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO account_verify (account_id, verify)
+        VALUES (#{accountId}, #{verify})
+    </insert>
+</mapper>

@@ -1,0 +1,149 @@
+@import 'tailwindcss';
+
+@import "@fontsource/diphylleia";
+@import "@fontsource/do-hyeon";
+
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Do Hyeon", sans-serif;
+  overscroll-behavior-y: none; /* 당겨서 새로고침 방지 */
+}
+
+/* 스크롤이 안보이게 하는 css */
+.no_scroll {
+  /* IE and Edge */
+  -ms-overflow-style: none;
+  /* Firefox */
+  scrollbar-width: none;
+}
+/* Chrome, Safari,Opera */
+.no_scroll::-webkit-scrollbar {display: none !important; }
+
+/* Firefox, IE, Edge용 전역 설정 */
+html {
+  overflow-x: hidden;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* 모바일 뷰포트 높이 수정을 위한 클래스 */
+.vh-fix {
+  height: calc(var(--vh, 1vh) * 100);
+}
+
+/* 메인 콘텐츠 스크롤 가능하게 */
+.content-scroll {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* 기본 토스트 박스 공통 스타일 */
+.Toastify__toast {
+  width:           90% !important;
+  max-width:       24rem !important;
+  margin:          0.2rem auto !important;
+  display:         flex !important;
+  align-items:     flex-start !important;
+  border-left-width: 4px !important;
+  border-radius:   0.5rem !important;
+  box-shadow:      0 4px 12px rgba(0,0,0,0.1) !important;
+  padding:         1rem !important;
+  color:           #fff !important;
+}
+
+/* 상태별 배경 & 보더 컬러 */
+.Toastify__toast--info {
+  /* background-color: #2189ff !important; */
+  background-color: #007bff !important;
+  border-left-color: transparent !important;
+}
+.Toastify__toast--success {
+  background-color: #16a34a !important;
+  border-left-color: #059669 !important;
+}
+.Toastify__toast--error {
+  background-color: #dc2626 !important;
+  border-left-color: #b91c1c !important;
+}
+.Toastify__toast--warning {
+  background-color: #ca8a04 !important;
+  border-left-color: #d97706 !important;
+}
+
+/* 본문 텍스트 */
+.Toastify__toast-body {
+  margin-left:    0.75rem !important;
+  font-size:      0.875rem !important;
+  line-height:    1.25rem !important;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+  font-family: Arial, sans-serif;
+  font-size: 20px; /* 텍스트 크기도 약간 증가 */
+}
+
+/* 기본 체크박스 숨기기 */
+.checkbox-container input[type="checkbox"] {
+  opacity: 0;
+  position: absolute;
+}
+
+/* 체크박스 커스텀 스타일링 - 원형 크게 */
+.checkmark {
+  height: 27px; /* 크기 키움 */
+  width: 27px; /* 크기 키움 */
+  background-color: #eee;
+  border-radius: 50%; /* 원형 설정 */
+  border: 3px solid #cbd5e1; /* 테두리도 조금 더 굵게 */
+  position: relative;
+  margin-right: 10px;
+  transition: all 0.3s ease;
+}
+
+/* 체크했을 때의 스타일링 */
+.checkbox-container input[type="checkbox"]:checked ~ .checkmark {
+  background-color: #3b82f6;
+  border-color: #2563eb;
+}
+
+/* 체크 표시 스타일링 */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.checkbox-container input[type="checkbox"]:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* 체크 표시의 모양 (크기 키움) */
+.checkbox-container .checkmark:after {
+  left: 7px; /* 가운데 정렬을 위해 수정 */
+  top: 2px;
+  width: 8px;
+  height: 15px;
+  border: solid white;
+  border-width: 0 3px 3px 0; /* 체크모양 두껍게 */
+  transform: rotate(45deg);
+}
+
+/* 기존 코드의 오타 수정 (--var에서 --vh로) */
+.module { width: 100%; }
+@media only screen and (max-device-width: 640px) {
+    .module { 
+        height: calc(var(--vh, 1vh) * 100);
+    }
+}

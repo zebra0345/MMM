@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.ssafy.tmt.db.mapper.transaction.VerifyTransactionMapper">
+
+    <insert id="insertVerifyTransaction" parameterType="org.ssafy.tmt.api.entity.transaction.VerifyTransaction" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO verify_transaction (
+            account_id,
+            verify_number,
+            amount
+        )
+        VALUES (
+            #{accountId},
+            #{verifyNumber},
+            #{amount}
+        )
+    </insert>
+
+    <select id="selectVerifyTransactionByAccountNumberAndVerifyNumber"
+            parameterType="map"
+            resultType="org.ssafy.tmt.api.entity.transaction.VerifyTransaction">
+        SELECT vt.*
+        FROM verify_transaction vt
+        INNER JOIN accounts a ON vt.account_id = a.id
+        WHERE a.account_number = #{accountNumber}
+        AND vt.verify_number = #{verifyNumber}
+    </select>
+
+</mapper>

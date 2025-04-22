@@ -1,0 +1,704 @@
+[
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Point Plan(서울시다둥이행복카드)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditPOADPNs.png",
+    "benefits": "일상생활비 0.5~3%적립\n주말 외식비 포인트적립\n정기결제 자동납부 포인트적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Point Plan+",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditPOCDMGs.gif",
+    "benefits": "일상 생활비 0.7~3% 적립\n주말 외식비 최대 5천 포인트 적립\n공과금·통신·OTT 최대 1만2천 포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Point Plan",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditPOADHLs.gif",
+    "benefits": "일상생활비 0.5~3% 적립\n주말 외식비 포인트 적립\n정기결제 자동납부 포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "알리익스프레스 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOADP9s.gif",
+    "benefits": "알리익스프레스 10% 결제일 할인\n음식점·카페·배달앱 10% 결제일 할인\n해외 1% 무제한 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 SOL트래블",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBUCDKHs.gif",
+    "benefits": "해외 이용·ATM 수수료 면제\n자유로운 해외 결제 환율 100% 우대\n국내 이용금액 최대 2% 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 처음(ANNIVERSE)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBSCDNGs.gif",
+    "benefits": "음식·생활·패션 5% 적립\n통신·구독·멤버십 최대 20% 적립\n소비관리 보너스 매월 최대 1만P"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 처음",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBSCDJKs.gif",
+    "benefits": "음식·생활·패션 5% 적립\n통신·구독·멤버십 최대 20% 적립\n소비관리 보너스 매월 최대 1만P"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 The PET",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBLCDMHs_1.png",
+    "benefits": "전국 동물병원 30% 할인\n펫 전용 쇼핑몰 30% 할인\n온라인 쇼핑몰 10% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Edu Plan+",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBDBDMAs.gif",
+    "benefits": "학원비 캐시백 월 최대 10만원\n할인점/의료,정기결제 캐시백 월 최대 4천원\n메가박스 영화 할인 월 7천원"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Biz Plan",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBHCDO6s.png",
+    "benefits": "국내 이용금액 1% 포인트 기본적립\n해외 일시불 이용금액 1.5% 포인트 기본적립\n사업성 경비 업종 4% 포인트 추가적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 봄",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAQDD6Ns.gif",
+    "benefits": "전가맹점 최대 0.5% 캐시백\n대중교통 일 최대 200원 캐시백\n디지털 구독 최대 1만원 캐시백"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Globus",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBUAD6Js.gif",
+    "benefits": "해외 수수료 1.18% 할인\n국내 이용 기본 0.7% 적립\n해외 이용 특별 1.7% 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 플리",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditPLACXPs.png",
+    "benefits": "Daily 국내 이용금액 최대 0.9% 결제일 할인\nWeekly 할인 쿠폰 매주 할인 쿠폰(월4회)\nMonthly 단골 적립 월 최대 3,000P 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 플리(산리오캐릭터즈)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditPLAD43s.png",
+    "benefits": "Daily 국내 이용금액 최대 0.9% 결제일 할인\nWeekly 할인 쿠폰 매주 할인 쿠폰(월 4회)\nMonthly 단골 적립 월 최대 3천P 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 핏(Fit)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAXKD2Bs.png",
+    "benefits": "일상영역 최대 4만P 적립\nFlex 영역 10% 기본 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 My TeenS(포차코)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBSADDSs.png",
+    "benefits": "GS25 행사 상품 할인\nGS25 기프티콘 서비스\nGS&POINT 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 EVerywhere",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBTDD41_1s.png",
+    "benefits": "전기차 충전요금 30~50% 캐시백\n생활 가맹점 5~20% 캐시백\n주차앱 5천원 캐시백"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Eats More(이츠모아)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAOCCT6s.gif",
+    "benefits": "전 가맹점 1천원 미만 금액 포인트 적립\n추가 적립 가맹점 이용건별 포인트 적립\n적립 포인트 투자 혜택(신한은행)"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Unboxing",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBCECA3_1s.png",
+    "benefits": "10% 캐시백\n언박싱 스페셜 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 구독 좋아요",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBNCD4Es.png",
+    "benefits": "디지털 구독 월 한도 내 100% 할인\n정기결제 자동이체 1천원 할인\n생활 서비스 10% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "#Pay 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAXICQUs.png",
+    "benefits": "7개 간편결제 5% 적립\n온/오프라인 어디서나 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 알뜰More(알뜰모아)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOAD16s.png",
+    "benefits": "알뜰폰요금 할인 월 최대 1만 5천원"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "위버스 신한카드(BTS)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBRACHYs.png",
+    "benefits": "위버스샵/생활영역 4%/10% 캐시적립\n하이브 인사이트 50% 할인\nGift 서비스 연 1회 제공"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Deep Oil",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBIABE0s.gif",
+    "benefits": "직접고른 주유소 10% 할인\n정비소/주차장 10% 할인\n편의점/커피/택시 5% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "수소차 충전할인 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBTACX4s.png",
+    "benefits": "수소차 충전요금 10% 할인\n주차장/자동차SVC 10% 할인\n할인점/편의점/배달앱 5% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "티머니 Pay & GO 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCAIDBLs.png",
+    "benefits": "버스, 지하철 30% 할인\n고속버스, 택시 등 20% 할인\nK-패스 20%~53% 환급"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "아시아나 신한카드 Air 1.5",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBFAB8Js.png",
+    "benefits": "마일리지 기본적립 1.5마일 /1천원\n마일리지 더블적립 3마일 /1천원\n플래티늄 서비스 공항라운지"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 MY CAR",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBPAC88s.png",
+    "benefits": "자동차 신용결제 0.2% 캐시백\n오토금융 이용구매 월 최대 4만원 캐시백\n주유/충전/전기차 월 최대 1만원 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 국민행복",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBSCEYs.png",
+    "benefits": "학원/인터넷서점 10% 할인\n밀딜리버리 10% 할인\nOTT 50% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "IKEA for Business with 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOACFXs.png",
+    "benefits": "IKEA 매장 10% 결제일 할인\n사업성 경비 가맹점 5% 결제일 할인\n일반 가맹점 0.3% 결제일 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 YaY",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAXGC75_VISAs.gif",
+    "benefits": "밀딜리버리 최대 30% 적립\n온라인 쇼핑몰 최대 12,500P 적립\n홈DIY 최대 3만P 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 My TeenS",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBSACIOs.png",
+    "benefits": "GS25 행사 상품 할인\nGS25 기프티콘 서비스\nGS&POINT 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 RPM+ Platinum#",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAFLAWVs.png",
+    "benefits": "모든 주유소 40~150P/ℓ적립\n특별 적립 서비스 1~5% 적립\n일반 적립 서비스 0.2~2% 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Air One",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBFBBQ0_1s.png",
+    "benefits": "국내/해외 1천원당 1마일 적립\n항공/면세 2배 적립\n해외 2배 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 혼디모앙",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOACF4s.png",
+    "benefits": "제주도 어디서나 최대 0.8% 적립\n제주도민 맞춤 영역 3~30% 적립\n온라인 쇼핑 2,500원 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "땡겨요 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOBCT2s.png",
+    "benefits": "땡겨요앱 이용금액 포인트 10% 적립\n편의점 이용금액 포인트 5% 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Deep Store",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBCBBLOs.png",
+    "benefits": "생활쇼핑 가맹점 최대 15% 할인\n커피/제과점 10% 할인\n주말 10% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Deep Store(우리먹거리)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBCBDNAs.png",
+    "benefits": "생활쇼핑 가맹점 최대 15% 할인\n커피/제과점 10% 할인\n주말 10% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Deep Making",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBLABSJs.png",
+    "benefits": "Making17선택영역 적립률 총 17% 내 직접선택\nMy Pick 가맹점 2천P 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Deep Taking",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBLBBSKs.png",
+    "benefits": "Taking 10 서비스 5개영역 자동적립\nMy Pick 가맹점 1천P 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Deep On Platinum+",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAXDBMRs.png",
+    "benefits": "간편결제(Pay) 최대 20% 할인\n생활서비스 20% 할인\nPlatinum+ 서비스"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Deep Once",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBNAC46s.png",
+    "benefits": "렌탈영역 최대 7천포인트 적립\n생활월납영역 최대 6천포인트 적립\n디지털구독영역 최대 6천포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Deep Once Plus",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBNBC47s.png",
+    "benefits": "렌탈 영역 최대 7천포인트 적립\n생활월납 영역 최대 6천포인트 적립\n디지털구독 영역 최대 6천포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 YOLO ⓘ",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAYAAZFs.png",
+    "benefits": "6개 선택처 20/15/10% 할인\n분기별 Bonus 스타벅스 쿠폰"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 B.Big(삑)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditATAAMKs.png",
+    "benefits": "대중교통 최대 600원 할인\n택시/KTX 10% 할인\n생활/쇼핑 5~10% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Mr.Life",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAUAARHs.png",
+    "benefits": "월납요금 10% 할인\nTime 10% 할인\n주말 주유소 60원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Simple+",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBA7AQ7s.gif",
+    "benefits": "전가맹점 0.7% 캐시백\n이동통신 자동이체 추가 0.7% 캐시백\n잔돈 할인 월 10회"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Shopping",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBCAAZXs.png",
+    "benefits": "쇼핑 10% 할인\n생활 10% 할인\n해외이용 5% 캐시백"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한 햇살론카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOACOHs.png",
+    "benefits": "생활쇼핑 가맹점 7% 할인\n커피전문점/제과점 10% 할인\n쇼핑몰/할인점 10% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Edu",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBDAB6R_1s.png",
+    "benefits": "교육업종 5~10% 캐시백\n아파트관리비 5천원 캐시백\n마트/의료업종 1% 캐시백"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 주거래 신용",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAWAAV8s.png",
+    "benefits": "전 가맹점 0.7% 적립\n쇼핑/해외 총 2% 적립\n생활 총 4% 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Air Platinum#",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAFJAPTs.png",
+    "benefits": "항공 마일리지 적립\n마이신한포인트 추가 적립\nPlatinum# 서비스"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Air Platinum#(더헤븐 리조트)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAFJDKAs.png",
+    "benefits": "항공 마일리지 적립\n마이신한포인트 추가 적립\nPlatinum# 서비스"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Lesson Platinum#",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBA69LHs.png",
+    "benefits": "학원 교육 5% 할인\n체험/활동학습 5% 할인\n서적 5% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Simple Platinum#",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBA7A3Xs.gif",
+    "benefits": "전가맹점 1% 캐시백\n대중교통 추가 0.7% 캐시백\n잔돈 할인 월 10회"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Cube Platinum#",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAPB9YLs.png",
+    "benefits": "5개 선택 5% 할인\n2만원이상 결제시 잔돈 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Love Platinum#",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBA69LGs.png",
+    "benefits": "백화점/할인점 5% 할인\n커피 20% 할인\n영화 7천원 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "레일플러스 포인트 GS칼텍스 신한카드 Shine",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBAEA7Fs.png",
+    "benefits": "레일플러스 포인트 5~10% 적립\nGS칼텍스 60~100원/ℓ 할인\n버스/지하철/택시 3~7% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "GS칼텍스 신한카드 Shine",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBAE07Hs.png",
+    "benefits": "GS칼텍스 60~100원/ℓ 할인\n버스,지하철,택시 3~7% 할인\n테마파크 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 후불하이패스+ (하이패스 전용)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCAEAXAs.png",
+    "benefits": "하이패스 0.1% 적립\n출퇴근 통행료 20% 할인\n유효기간 10년"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 후불하이패스+(SIM형)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCAEB1Zs.png",
+    "benefits": "하이패스 0.1% 적립\n출퇴근 통행료 20% 할인\n유효기간 10년"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "(배민커넥트) 신한카드 Deep Oil 카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBIAD0Is.png",
+    "benefits": "직접고른 주유소 10% 할인\n정비소/주차장 10% 할인\n편의점/커피/택시 5% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "BC 부자되세요 홈쇼핑 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditZAKAUJ.png",
+    "benefits": "홈쇼핑 6% 결제일 할인\n생활친화가맹점 통합할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 아름다운",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAJA00Js.png",
+    "benefits": "아름 포인트 적립/기부\n스타벅스 컵 사이즈 UP\n3,6,9Day 주유 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Ownership",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAFG03Js.png",
+    "benefits": "마이신한포인트 최대5% 적립\n사업자지원 부가세간편신고\n가맹점매출 최대 2만P 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "E1 개인택시운송사업자 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBDCXQs.png",
+    "benefits": "개인택시운송사업자 유가보조금 지원\nE1 충전소 이용 시 최대2% 혜택\n요식/의료 5% 결제일 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 경차사랑 Life",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBFBHBs.png",
+    "benefits": "유류세 자동 환급\n주유소/충전소 80원/ℓ할인\n다양한 생활 서비스"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Hi-Point MyShop",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAFI9U6s.png",
+    "benefits": "사업성경비P 1~5% 적립\n주유소 포인트 60P/ℓ 적립\n카드론/현금서비스 이자율 우대"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 Hi-Point MyShop PLATINUM#",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAFIA7Ds.png",
+    "benefits": "사업성경비P 1~5% 적립\n주유소 포인트 60P/ℓ 적립\nPlatinum# Platinum서비스"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "청년동행 신한카드 B.Big(삑)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditATABN7s.png",
+    "benefits": "대중교통 최대 600원 할인\n택시/KTX 10% 할인\n생활/쇼핑 5~10% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "큰수레 비즈니스 신한카드 Simple+",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBA7B6Ds.png",
+    "benefits": "사업자 특화서비스\n전가맹점 0.7% 캐시백\n생활친화가맹점 잔돈할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한카드 집",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBE5BOXs.png",
+    "benefits": "주택임대료 5천원~1만5천원 할인\n생활 서비스 5천원~1만5천원 할인\n기본 서비스 3천원/1% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "국세청 복지 GS칼텍스 신한카드 Shine",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBAEA5Xs.png",
+    "benefits": "주유 60~100원/ℓ 할인\n대중교통 3%~7% 할인\n교육비 5%~10% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "국세청 복지 신한카드 Lady",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditABAA5Ws.png",
+    "benefits": "백화점/할인점 5% 할인\n레스토랑 20% 할인\n교육비 5~10% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "공무원연금복지 GS칼텍스 신한카드 Shine",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBAEARC.png",
+    "benefits": "생활비 할인 5대 업종 5~10%\nGS칼텍스 할인 ℓ당 최대 100원\n테마파크 본인 50% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "공무원연금복지 SK에너지 신한카드 Oiling",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBADARD.png",
+    "benefits": "SK에너지 120P 적립\n대중교통 최고 7% 할인\n테마파크 할인 영화/연극 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "장애인 통합복지 신한카드 2030",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAAAA8Xs.png",
+    "benefits": "LPG 충전소 할인 리터당 30원 할인\n무임교통기능 교통카드 기능 탑재\n고속도로 통행료 50% 감면 서비스"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "장애인 통합복지 신한카드 Lady",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditABAA90s.png",
+    "benefits": "LPG 충전소 할인 리터당 30원 할인\n무임교통기능 교통카드 기능 탑재\n고속도로 통행료 50% 감면 서비스"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "대한간호협회 신한카드 RN",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOADDVs.png",
+    "benefits": "협회 특화서비스 연 2만원 할인\nGS칼텍스 리터당 40원 할인\n생활편의 마이신한포인트 5% 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "대한치과위생사협회 신한카드 Lady",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditABA221s.png",
+    "benefits": "백화점/할인점 5% 할인\n레스토랑/커피 20% 할인\nS-OIL 주유 60P/ℓ 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "대한치과위생사협회 GS칼텍스 신한카드 BigPlus",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditADC46Fs.png",
+    "benefits": "GS칼텍스 80P/ℓ 적립\n대중교통 상해보험 무료 가입\n테마파크 50% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "신한 후불 기후동행 신용카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOADNTs.gif",
+    "benefits": "후불 기후동행카드 서비스 제공\n온라인 10% 할인\n오프라인 10% 혜택"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "K-패스 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOADG4s.png",
+    "benefits": "대중교통 10% 할인\n간편결제 5% 할인\n생활 부문 5% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "K-패스 신한카드(The 경기패스)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCAJDP1s.png",
+    "benefits": "대중교통 10% 할인\n간편결제 5% 할인\n생활 부문 5% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "K-패스 신한카드(경남패스)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCAJDP7s.png",
+    "benefits": "대중교통 10% 할인\n간편결제 5% 할인\n생활 부문 5% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "K-패스 신한카드(이응패스)",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCAJDMQs.png",
+    "benefits": "대중교통 10% 할인\n간편결제 5% 할인\n생활 부문 5% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "SK55 화물복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADBCs.png",
+    "benefits": "화물자동차 유가보조금 지원\nSK내트럭플러스 55원/ℓ 현장 할인\nSK주유소 이용 시 머핀 포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "화물운전자복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBA62I.jpg",
+    "benefits": "화물자동차 유가보조금 지원\nSK내트럭주유소 40원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "SK에너지 2MORE 화물복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBABFCs.png",
+    "benefits": "화물자동차 유가보조금 지원\nSK내트럭주유소 최대 55원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "알뜰주유소 화물운전자복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBAARU.png",
+    "benefits": "화물자동차 유가보조금 지원\n알뜰주유소 최대 35원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "HD현대오일뱅크 2UP 화물운전자복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBAB6Qs.png",
+    "benefits": "화물자동차 유가보조금 지원\n화물우대주유소 최대 100원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "S-OIL 2UP 화물운전자복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBAB6Ps.png",
+    "benefits": "화물자동차 유가보조금 지원\n화물우대주유소 최대 100원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "E1 LPG 화물복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADG3s.png",
+    "benefits": "화물자동차 유가보조금 지원\nE1 LPG 충전 1% 결제일 할인\nE1 LPG 충전 오렌지포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "GS칼텍스 LPG 화물복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADG1s.png",
+    "benefits": "화물자동차 유가보조금 지원\nGS칼텍스 LPG 40원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "S-OIL LPG 화물복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADG0s.png",
+    "benefits": "화물자동차 유가보조금 지원\nS-OIL LPG 27원/ℓ 할인\nS-OIL LPG 보너스포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "HD현대오일뱅크 LPG 화물복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADG2s.png",
+    "benefits": "화물자동차 유가보조금 지원\nHD현대오일뱅크 LPG 충전 할인\nHD현대오일뱅크 보너스포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "SK LPG 화물복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADFZs.png",
+    "benefits": "화물자동차 유가보조금 지원\nSK LPG 충전 금액 할인\nSK LPG 머핀 포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "노란우산 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBEWBJ7s.png",
+    "benefits": "사업성 경비 최고 5% 적립\n생활서비스 최고 5% 할인\n사업자 서비스 세무관련 지원"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "개인택시운송자사업자 신한카드 T-플러스",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBDB2Ms.png",
+    "benefits": "개인택시운송사업자 유가보조금 지원\nSK충전소 이용 시 머핀 포인트 적립\nSK충전소 이용 시 마이신한포인트 적립"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "S.Sing 씽화물복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBAAQVs.png",
+    "benefits": "화물자동차 유가보조금 지원\n화물특화주유소 최대 70원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "외식가족공제 신한카드 Hi-point MyShop",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAFIAAKs.png",
+    "benefits": "사업성경비P 1~5% 적립\n직거래가맹점P 0.5% 적립\n세무지원서비스 부가세신고 편의"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "교직원복지 신한카드 LOVE",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAEA9KGs.png",
+    "benefits": "교직원공제회 회원전용서비스\n전국 가맹점 2~3개월 무이자\nGS칼텍스 60원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "한국수력원자력 임직원복지 신한카드 LOVE",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAEAC81s.png",
+    "benefits": "백화점/할인점 5% 할인\n커피할인점 20% 할인\n영화 7천원 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "SK One+ 화물복지 신한카드",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBAC87s.png",
+    "benefits": "화물자동차 유가보조금지원\nSK내트럭플러스 최대 70원/ℓ 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "부산가족사랑 GS칼텍스 신한카드 Shine",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBAEA4Ns.png",
+    "benefits": "GS칼텍스 60~100원/ℓ 할인\n대중교통 3%~7% 할인\n학원 및 학습지 5% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "119 소방사랑 GS칼텍스 신한카드 Big Plus",
+    "image_url": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditADA40Ks.png",
+    "benefits": "GS칼텍스 80포인트/ℓ적립\n대중교통 상해보험 무료 가입\n테마파크 50% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "카드의정석 EVERY DISCOUNT",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2024/6/24/3beb9853-67d6-4acc-bcff-a8a8ca7ba164.png",
+    "benefits": "국내외 가맹점 0.8% 청구할인\n국내 온라인 간편결제 2% 추가 청구할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "카드의정석 EVERY POINT",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2024/2/6/7924f128-93ae-495b-b813-f5df772fb9cc.png",
+    "benefits": "국내외 가맹점 0.8% 적립\n국내 온라인 간편결제 2% 추가적립\n청소년 가족카드 발급 가능 상품"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "카드의정석 TEN",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2024/5/16/78ed6fa8-743a-46f5-8f55-b3246229db59.png",
+    "benefits": "커피, 편의점, 교통, 이동통신, 해외 10% 청구할인\n음식점/주점 및 온라인 간편결제 1% 청구할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "DA카드의정석 Ⅱ",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2024/1/10/9d71e5e4-af21-4da4-9502-c5cfb4372e15.png",
+    "benefits": "기본 Discount - 0.8% 기본 청구할인\n추가 Discount - 0.5% 추가 청구할인\n국내 공항라운지 무료 이용 서비스"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "D4카드의정석Ⅱ",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2024/2/21/1fa0a89f-0811-43b1-9c24-a4bb8bf750f4.png",
+    "benefits": "커피 4대 브랜드 스타벅스, 투썸플레이스, 폴바셋, 커피빈 55% 청구할인\n시내버스, 지하철(후불교통기능 선택 시), 택시 건당 최대 2,200원 청구할인\n편의점 건당 할인한도 1,100원"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "카드의정석 I&U+",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2024/2/13/2556856e-91ff-41cc-ae55-5d6f649d30ad.png",
+    "benefits": "국내 가맹점 1%~0.7% 청구할인\n주유 리터당 60~100원 청구할인\n대중교통, 커피 10% 청구할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "카드의정석 댕댕냥이",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2020/6/30/c5c58b32-4aad-4aee-994a-56c3039e54f9.png",
+    "benefits": "동물병원 10% 할인\n온라인 쇼핑, 오프라인쇼핑 10~15% 할인\n커피 10% 청구할인, 주유 리터당 60원할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "카드의정석 EVERY MILE SKYPASS",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2023/7/18/5db69f47-fced-4d58-86eb-f5139e109fce.png",
+    "benefits": "대한항공 SKYPASS 마일리지 이용금액 1천원당 1마일리지 적립\n국제브랜드사 수수료 1%, 해외이용 수수료 0.3% 면제\n국내 공항라운지 무료이용 연 2회 제공(동반 1인 동시 이용가능)"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "카드의정석 후불하이패스+",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2024/7/8/b753e30d-eb9f-4560-af4c-a2b60aa9c421.png",
+    "benefits": "평일 출퇴근 시간대 통행료 20~50% 할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "카드의정석 I&U+",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2024/2/13/2556856e-91ff-41cc-ae55-5d6f649d30ad.png",
+    "benefits": "국내 가맹점 1%~0.7% 청구할인\n주유 리터당 60~100원 청구할인\n대중교통, 커피 10% 청구할인"
+  },
+  {
+    "card_type": "credit_card",
+    "card_name": "D4카드의정석Ⅱ",
+    "image_url": "https://pc.wooricard.com/webcontent/cdPrdImgFileList/2024/2/21/1fa0a89f-0811-43b1-9c24-a4bb8bf750f4.png",
+    "benefits": "커피 4대 브랜드 스타벅스, 투썸플레이스, 폴바셋, 커피빈 55% 청구할인\n시내버스, 지하철(후불교통기능 선택 시), 택시 건당 최대 2,200원 청구할인\n편의점 건당 할인한도 1,100원"
+  }
+]

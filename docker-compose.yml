@@ -1,0 +1,97 @@
+# version: '3'
+
+services:
+    nginx:
+        build: /home/ubuntu/nginx # Dockerfile 경로
+        container_name: nginx-container
+        ports:
+        - "80:80"
+        - "443:443"
+        volumes:
+        - /etc/letsencrypt:/etc/letsencrypt:ro # SSL 인증서를 컨테이너에 제공
+        - /home/ubuntu/nginx/conf.d:/etc/nginx/conf.d # Nginx 설정 파일을 컨테이너에 제공
+        restart: always
+        networks:
+        - app-network
+
+    frontend:
+        image: chaaaaaaanmi/mmm-frontend:latest
+        container_name: react-container
+        # ports:
+        #     -"3000:3000"
+        restart: always
+        networks:
+        - app-network
+
+    backend:
+        image: chaaaaaaanmi/mmm-backend:latest
+        container_name: backend
+        # ports:
+        #     -"8080:8080"
+        restart: always
+        networks:
+            - app-network
+        depends_on:
+            - redis
+            - elasticsearch
+
+    ai:
+        image: chaaaaaaanmi/mmm-ai:latest
+        container_name: ai
+        volumes:
+            - ./python_back/data:/app/data  # FAISS 인덱스 파일을 위한 볼륨
+        restart: always
+        networks:
+            - app-network
+
+    redis:
+        image: redis:latest
+        container_name: redis
+        # ports:
+        #     - "6379:6379"
+        # volumes:
+        #     - redis-data:/data # Redis 데이터 영구 저장
+        restart: always
+        networks:
+            - app-network
+
+    jenkins:
+        # image: jenkins/jenkins:lts
+        build: 
+            context: .
+            dockerfile: Dockerfile
+        container_name: jenkins-container
+        ports:
+        - "9090:8080"
+        - "50000:50000"
+        volumes:
+        - ./jenkins_home:/var/jenkins_home # Jenkins 설정과 작업 이력 저장 (컨테이너가 재시작되더라도 데이터 유지됨)
+        - /var/run/docker.sock:/var/run/docker.sock # 호스트의 Docker 데몬에 접근할 수 있도록 (Jenkins 컨테이너 내에서 Docker 명령어 실행)
+        restart: always
+        networks:
+        - app-network
+
+    elasticsearch:
+        image: docker.elastic.co/elasticsearch/elasticsearch:8.17.4
+        container_name: elasticsearch
+        environment:
+            - discovery.type=single-node
+            - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+            - xpack.security.enabled=false # 보안 기능 비활성화
+        ports:
+            - "9200:9200"
+        #     - "9300:9300"
+        volumes:
+            - elasticsearch-data:/usr/share/elasticsearch/data
+        networks:
+            - app-network
+
+# volumes:
+#     redis-data:
+
+volumes:
+    elasticsearch-data:
+
+networks:
+    app-network:
+        external: true
